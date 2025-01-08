@@ -1,101 +1,83 @@
-<h2 align="left"># Hi there, I'm Mamun Hossain! 👋</h2>
+<h2 align="left">👋 Hi, I'm Md Mamun Hossain</h2>
 
 ###
 
-<h3 align="left">Welcome to my GitHub Profile</h3>
+<p align="left">☕ About me!<br><br>Hello! I am Md Mamun Hossain. I am 22 years old. I have completed my HSC and am passionate about entering the world of websites and contributing towards creating a meaningful social impact for users. I have been following various technology platforms and resources to enhance my growth and understanding of this field. I believe in evolving my knowledge and learning continuously every day.</p>
 
 ###
 
-<h3 align="left">
-### About Me</h3>
-
-###
-
-<p align="left">type Skill = "HTML" | "CSS" | "JavaScript" | "React ⚛️" | "Next.js 🔥";<br>type Hobby = "Coding 💻" | "Exploring 📈" | "Continuous Learning 📚";<br>type Focus = "Front-End Development 🌐" | "Full-Stack Aspiration 🚀";<br>type Language = "English" | "Bangla" | "JavaScript" | "TypeScript";<br><br>type Profile<T extends string, U extends string[]> = {<br>  name: string;<br>  location: string;<br>  focus: Focus;<br>  skills: Skill[];<br>  hobbies: Hobby[];<br>  languages: Language[];<br>  achievements?: string[];<br>  certifications?: string[];<br>  goals?: string[];<br>  favoriteTools?: string[];<br>  funFact: string;<br>  contact: {<br>    email: string;<br>    linkedIn?: string;<br>    portfolio?: string;<br>  };<br>};<br><br>const MdMamunHossain: Profile<Focus, Skill[]> = {<br>  name: "Md Mamun Hossain",<br>  location: "Bangladesh 🇧🇩 - Innovating in the tech world",<br>  focus: "Front-End Development 🌐",<br>  skills: ["HTML", "CSS", "JavaScript", "React ⚛️", "Next.js 🔥"],<br>  hobbies: ["Coding 💻", "Exploring 📈", "Continuous Learning 📚"],<br>  languages: ["English", "Bangla", "JavaScript"],<br>  achievements: ["Completed 50+ coding projects", "Participated in a national hackathon"],<br>  certifications: ["Certified React Developer", "JavaScript Algorithms and Data Structures"],<br>  goals: ["Master Next.js and TypeScript", "Contribute to open-source projects"],<br>  favoriteTools: ["VS Code", "Figma", "Git"],<br>  funFact: "Self-taught coder with a deep passion for problem-solving and continuous learning 🤓",<br>  contact: {<br>    email: "developermamun1999@gmail.com",<br>    linkedIn: "https://linkedin.com/in/mdmamunhossain",<br>    portfolio: "https://mamunhossain.dev",<br>  },<br>};</p>
-
-###
-
-<h3 align="left">Languages & Tools:</h3>
+<p align="left">💥  Connect with me!</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
-###
-
-<h3 align="left">Git Stutas</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MamunHossain1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Social Media</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
 ###
 
-<h3 align="left">
-### Connect with Me</h3>
+<p align="left">💻 Frontend</p>
 
 ###
 
-<p align="left">- [LinkedIn](https://www.linkedin.com/in/mamunhossain1999/)<br>- [Twitter](https://twitter.com/mamunhossain1999)</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
 
 ###
 
-<h3 align="left">Thanks for visiting my profile!</h3>
+<p align="left">💻 backend</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠️ Soft-Skills</h3>
+
+###
+
+<p align="left">🤝 Team Collaboration<br>👂 Active Listening<br>⚡ Multitasking Abilities<br>⏱️ Time Management<br>💬 Excellent Communication<br>🌐 Remote Support<br>🔌 Basic Networking<br>🖥️ Operating System (windows)</p>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MamunHossain1999/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MamunHossain1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">Welcome to my visit github profile</h3>
 
 ###

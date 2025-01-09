@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💥  Connect with me!</p>
+<h2 align="left">💥  Connect with me!</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">💻 Frontend</p>
+<h2 align="left">💻 Frontend</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">💻 backend</p>
+<h2 align="left">💻 backend</h2>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">💻 Tools</p>
+<h2 align="left">💻 Tools</h2>
 
 ###
 

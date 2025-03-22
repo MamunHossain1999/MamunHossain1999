@@ -80,7 +80,8 @@ I love working with JavaScript frameworks and am currently focusing on **Next.js
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical&random_param=<?php echo rand(); ?>" height="150" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 

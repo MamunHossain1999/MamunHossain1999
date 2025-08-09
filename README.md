@@ -7,12 +7,9 @@
 ---
 
 ### ☕ About Me
+Hello! I am Md Mamun Hossain, a passionate Frontend Developer with 3 months of internship experience. I have completed my HSC and love building modern, responsive web applications that create meaningful social impact.
 
-Hello! I am Md Mamun Hossain. I have completed my HSC and am passionate about building modern web applications that create meaningful social impact. 
-
-I love working with JavaScript frameworks and am currently focusing on **Next.js** and **React.js**. I believe in continuous learning and growing every day through real-world projects and community contributions.
-
----
+I enjoy working with JavaScript frameworks and am currently focusing on Next.js and React.js. I strongly believe in continuous learning and skill growth through real-world projects, collaboration, and community contributions.
 
 ### 💥 Connect with Me!
 

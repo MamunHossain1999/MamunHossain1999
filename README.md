@@ -1,30 +1,22 @@
-<h2 align="left">👋 Hi, I'm Md Mamun Hossain</h2>
+<h2 align="center">👋 Hi, I'm Md Mamun Hossain</h2>
 
-<p align="left">
+<p align="center">
   🎓 HSC Graduate | 🌐 Frontend Developer | 🚀 Tech Enthusiast
 </p>
 
 ---
 
 ### ☕ About Me
-Hello! I am Md Mamun Hossain, a passionate Frontend Developer with 3 months of internship experience. I have completed my HSC and love building modern, responsive web applications that create meaningful social impact.
+Hello! I am **Md Mamun Hossain**, a passionate Frontend Developer with 3 months of internship experience.  
+I love building **modern, responsive, and user-friendly web applications** that create a positive impact.  
 
-I enjoy working with JavaScript frameworks and am currently focusing on Next.js and React.js. I strongly believe in continuous learning and skill growth through real-world projects, collaboration, and community contributions.
-
-### 💥 Connect with Me!
-
-<p align="left">
-  <a href="https://www.instagram.com/MamunHossain1999" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://www.linkedin.com/in/MamunHossain1999" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://discord.com/users/MamunHossain1999" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.facebook.com/MamunHossain1999" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
-</p>
+💻 Currently working with **React.js, Next.js, and Tailwind CSS**  
+⚡ Exploring **Node.js, Express, and MongoDB** for full-stack development  
+🌱 I believe in **continuous learning and collaboration**  
 
 ---
 
 ### 💻 Frontend Skills
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -40,7 +32,6 @@ I enjoy working with JavaScript frameworks and am currently focusing on Next.js 
 ---
 
 ### 🛠 Backend Skills
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
@@ -50,7 +41,6 @@ I enjoy working with JavaScript frameworks and am currently focusing on Next.js 
 ---
 
 ### 🧰 Tools
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
@@ -62,24 +52,28 @@ I enjoy working with JavaScript frameworks and am currently focusing on Next.js 
 ---
 
 ### 🎯 Soft Skills
-
-- 🤝 Team Collaboration
-- 👂 Active Listening
-- ⚡ Multitasking Abilities
-- ⏱️ Time Management
-- 💬 Excellent Communication
-- 🌐 Remote Work Support
-- 🔌 Basic Networking Knowledge
-- 🖥️ Familiarity with Windows OS
+- 🤝 Team Collaboration  
+- ⏱ Time Management  
+- 💬 Communication  
+- 🌐 Remote Work Friendly  
 
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150" />
 </div>
+
+---
+
+### 💥 Connect with Me
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/MamunHossain1999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/MamunHossain1999"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/MamunHossain1999"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 

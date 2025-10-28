@@ -6,99 +6,78 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/MamunHossain1999">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect" />
   </a>
   <a href="mailto:developermamun1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Mail" />
   </a>
   <a href="https://github.com/MamunHossain1999">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow" />
   </a>
 </p>
 
 ---
 
-### ☕ About Me
-Hello! I am **Md Mamun Hossain**, a passionate Frontend Developer with **3 months internship experience**.  
-I love building **modern, responsive, and user-friendly web applications** that create a positive impact.  
-
-💻 Currently working with **React.js, Next.js, and Tailwind CSS**  
-⚡ Exploring **Node.js, Express, and MongoDB** for full-stack development  
-🌱 I believe in **continuous learning and collaboration**  
+### 📝 Summary
+I am **Md Mamun Hossain**, a passionate Frontend Developer with internship experience in building **modern, responsive, and user-friendly web applications**.  
+💻 Working with **React.js, Next.js, Tailwind CSS**  
+⚡ Exploring **Node.js, Express, MongoDB, TypeScript** for full-stack development  
+🌱 Believer in **continuous learning, collaboration, and best practices**  
 
 ---
 
 ### 💻 Frontend Skills
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
 </div>
 
 ---
 
-### 🛠 Backend Skills
-## 🛠 Technologies Used
-
+### 🛠 Backend & Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zod/zod-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" height="40" />
-</div>
-
-- **Node.js** – JavaScript runtime  
-- **Express.js** – Web framework for building APIs  
-- **TypeScript** – Type-safe JavaScript  
-- **MongoDB & Mongoose** – Database & ODM  
-- **bcryptjs** – Password hashing  
-- **jsonwebtoken (JWT)** – Token generation & verification  
-- **cookie-parser** – Handle cookies  
-- **cors** – Cross-Origin Resource Sharing  
-- **dotenv** – Environment variable management  
-- **zod** – Input validation
-
-
----
-
-### 🧰 Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zod/zod-original.svg" height="40" title="Zod"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" height="40" title="JWT"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
 </div>
 
 ---
 
-### 🎯 Soft Skills
+### 🌟 Soft Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/Team%20Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logo=clockify&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Communication-32CD32?style=for-the-badge&logo=discord&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Remote%20Work-FF69B4?style=for-the-badge&logo=zoom&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white" height="25" title="Team Collaboration" />
+  <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logo=clockify&logoColor=white" height="25" title="Time Management"/>
+  <img src="https://img.shields.io/badge/Communication-32CD32?style=for-the-badge&logo=discord&logoColor=white" height="25" title="Communication"/>
+  <img src="https://img.shields.io/badge/Remote%20Work-FF69B4?style=for-the-badge&logo=zoom&logoColor=white" height="25" title="Remote Work"/>
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150" />
+  <a href="https://github.com/MamunHossain1999">
+    <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical&count_private=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150" />
+  </a>
 </div>
 
 ---
 
-### 💥 Connect with Me
+### 💌 Connect with Me
 <p align="center">
   <a href="mailto:developermamun1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

@@ -44,11 +44,28 @@ I love building **modern, responsive, and user-friendly web applications** that 
 ---
 
 ### 🛠 Backend Skills
+## 🛠 Technologies Used
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zod/zod-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" height="40" />
 </div>
+
+- **Node.js** – JavaScript runtime  
+- **Express.js** – Web framework for building APIs  
+- **TypeScript** – Type-safe JavaScript  
+- **MongoDB & Mongoose** – Database & ODM  
+- **bcryptjs** – Password hashing  
+- **jsonwebtoken (JWT)** – Token generation & verification  
+- **cookie-parser** – Handle cookies  
+- **cors** – Cross-Origin Resource Sharing  
+- **dotenv** – Environment variable management  
+- **zod** – Input validation
+
 
 ---
 

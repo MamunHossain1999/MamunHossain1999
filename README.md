@@ -82,8 +82,11 @@ I am **Md Mamun Hossain**, a passionate Frontend Developer with internship exper
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/MamunHossain1999">
-    <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical&count_private=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical&hide=html" height="150" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamunHossain1999&theme=radical" height="120" title="GitHub Streak Stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamunHossain1999&theme=react-dark&hide_border=true" height="120" title="Contribution Graph"/>
   </a>
 </div>
 
@@ -100,7 +103,7 @@ I am **Md Mamun Hossain**, a passionate Frontend Developer with internship exper
   <a href="https://www.instagram.com/MamunHossain1999">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/MamunHossain1999">
+  <a href="[https://www.facebook.com/MamunHossain1999](https://www.facebook.com/md.mamun.hossain.428852)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>

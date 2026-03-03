@@ -18,8 +18,9 @@
 
 ---
 
-### 📝 Summary
-I am **Md Mamun Hossain**, a passionate Frontend Developer with internship experience in building **modern, responsive, and user-friendly web applications**.  
+### 📝 About Me
+I am **Md Mamun Hossain**, a passionate Frontend Developer with internship experience building **modern, responsive, and user-friendly web applications**.  
+
 💻 Working with **React.js, Next.js, Tailwind CSS**  
 ⚡ Exploring **Node.js, Express, MongoDB, TypeScript** for full-stack development  
 🌱 Believer in **continuous learning, collaboration, and best practices**  
@@ -65,28 +66,47 @@ I am **Md Mamun Hossain**, a passionate Frontend Developer with internship exper
 
 ### 🌟 Soft Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/Team%20Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white" height="25" title="Team Collaboration" />
-  <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logo=clockify&logoColor=white" height="25" title="Time Management"/>
-  <img src="https://img.shields.io/badge/Communication-32CD32?style=for-the-badge&logo=discord&logoColor=white" height="25" title="Communication"/>
-  <img src="https://img.shields.io/badge/Remote%20Work-FF69B4?style=for-the-badge&logo=zoom&logoColor=white" height="25" title="Remote Work"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white" height="25" title="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Critical%20Thinking-FF8C00?style=for-the-badge&logo=brainly&logoColor=white" height="25" title="Critical Thinking"/>
-  <img src="https://img.shields.io/badge/Adaptability-20B2AA?style=for-the-badge&logo=git&logoColor=white" height="25" title="Adaptability"/>
-  <img src="https://img.shields.io/badge/Leadership-DC143C?style=for-the-badge&logo=trello&logoColor=white" height="25" title="Leadership"/>
-  <img src="https://img.shields.io/badge/Continuous%20Learning-4B0082?style=for-the-badge&logo=udemy&logoColor=white" height="25" title="Continuous Learning"/>
-  <img src="https://img.shields.io/badge/Agile%20Mindset-008080?style=for-the-badge&logo=jira&logoColor=white" height="25" title="Agile Mindset"/>
+  <img src="https://img.shields.io/badge/Team%20Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logo=clockify&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Communication-32CD32?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Remote%20Work-FF69B4?style=for-the-badge&logo=zoom&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Critical%20Thinking-FF8C00?style=for-the-badge&logo=brainly&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Adaptability-20B2AA?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Leadership-DC143C?style=for-the-badge&logo=trello&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learning-4B0082?style=for-the-badge&logo=udemy&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Agile%20Mindset-008080?style=for-the-badge&logo=jira&logoColor=white" height="25"/>
 </div>
+
+---
+
+### 🚀 Pinned Projects
+- [React E-Commerce](https://github.com/MamunHossain1999) - Modern responsive e-commerce site  
+- [Library Management System](https://github.com/MamunHossain1999) - CRUD + borrow system using React & Redux  
+- [Wishlist App](https://github.com/MamunHossain1999) - React wishlist with dynamic loading & cart integration  
+
+---
+
+### 📚 Learning Now
+- **NestJS** for backend development  
+- **Redux Toolkit Query** for state management  
+- **Framer Motion** for UI animations  
+- **TypeScript Advanced Patterns**  
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/MamunHossain1999">
-    <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical&hide=html" height="150" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamunHossain1999&theme=radical" height="120" title="GitHub Streak Stats"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamunHossain1999&theme=react-dark&hide_border=true" height="120" title="Contribution Graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MamunHossain1999&show_icons=true&theme=radical&count_private=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunHossain1999&layout=compact&theme=radical" height="150"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamunHossain1999&theme=radical" height="120"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamunHossain1999&theme=react-dark&hide_border=true" height="120"/>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=MamunHossain1999&color=blue" alt="Profile Views"/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MamunHossain1999&theme=radical&row=1&column=5"/>
   </a>
 </div>
 
@@ -94,20 +114,10 @@ I am **Md Mamun Hossain**, a passionate Frontend Developer with internship exper
 
 ### 💌 Connect with Me
 <p align="center">
-  <a href="mailto:developermamun1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/MamunHossain1999">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/MamunHossain1999">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="[https://www.facebook.com/MamunHossain1999](https://www.facebook.com/md.mamun.hossain.428852)">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <a href="mailto:developermamun1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/MamunHossain1999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/MamunHossain1999"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/md.mamun.hossain.428852"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-
----
 
 <h3 align="center">Thanks for visiting my profile! 🚀</h3>

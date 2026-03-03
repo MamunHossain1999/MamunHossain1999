@@ -33,9 +33,15 @@ I am **Md Mamun Hossain**, a passionate Frontend Developer with internship exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40" title="React Router"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" title="Webpack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" title="NPM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" title="Yarn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
 </div>
 
@@ -63,6 +69,12 @@ I am **Md Mamun Hossain**, a passionate Frontend Developer with internship exper
   <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logo=clockify&logoColor=white" height="25" title="Time Management"/>
   <img src="https://img.shields.io/badge/Communication-32CD32?style=for-the-badge&logo=discord&logoColor=white" height="25" title="Communication"/>
   <img src="https://img.shields.io/badge/Remote%20Work-FF69B4?style=for-the-badge&logo=zoom&logoColor=white" height="25" title="Remote Work"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white" height="25" title="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Critical%20Thinking-FF8C00?style=for-the-badge&logo=brainly&logoColor=white" height="25" title="Critical Thinking"/>
+  <img src="https://img.shields.io/badge/Adaptability-20B2AA?style=for-the-badge&logo=git&logoColor=white" height="25" title="Adaptability"/>
+  <img src="https://img.shields.io/badge/Leadership-DC143C?style=for-the-badge&logo=trello&logoColor=white" height="25" title="Leadership"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learning-4B0082?style=for-the-badge&logo=udemy&logoColor=white" height="25" title="Continuous Learning"/>
+  <img src="https://img.shields.io/badge/Agile%20Mindset-008080?style=for-the-badge&logo=jira&logoColor=white" height="25" title="Agile Mindset"/>
 </div>
 
 ---
